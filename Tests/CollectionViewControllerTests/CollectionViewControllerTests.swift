@@ -6,6 +6,5 @@ final class CollectionViewControllerTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(CollectionViewController().text, "Hello, World!")
     }
 }
